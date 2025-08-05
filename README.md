@@ -35,7 +35,7 @@ This project presents an analysis and key insights derived from four integrated 
 ## 📂 How to Use This Repository
 
 You can explore the full analysis, visualizations, and conclusions in the PDF document:  
-**[World's Economy Analysis](./Worlds_Economy_Analysis.pdf)**  
+**[World's Economy Analysis](./Worlds_Economy_Analysis.zip)**  
 This version was exported directly from the original Jupyter Notebook using LaTeX.
 
 You may also browse the `/img` folder to preview the key plots separately.
