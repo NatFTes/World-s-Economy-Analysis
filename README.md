@@ -35,9 +35,9 @@ This project presents an analysis and key insights derived from four integrated 
 ## 📂 How to Use This Repository
 
 You can explore the full analysis, visualizations, and conclusions in the PDF document:  
-**[World's Economy Analysis](./Worlds_Economy_Analysis.zip)**  
+**[World's Economy Analysis](https://github.com/NatFTes/World-s-Economy-Analysis/blob/Main/Worlds%20Economy%20Analysis.zip)**  
 This version was exported directly from the original Jupyter Notebook using LaTeX.
 
 You may also browse the `/img` folder to preview the key plots separately.
 
-To explore the original datasets, refer to the clickable links embedded in the PDF report.
+To explore the original datasets, refer to the links mentioned in the PDF report.
